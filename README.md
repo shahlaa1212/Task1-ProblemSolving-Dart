@@ -1,4 +1,4 @@
-# 🎲 Tasks Dart 👩🏻‍💻
+# 💡 Tasks Dart 👩🏻‍💻
 This repository contains Dart code for some problem solving.
 ## 🧩 Task 1 
 Write program using two variables caluture sum, mult, minus, divi, two variable input by user
