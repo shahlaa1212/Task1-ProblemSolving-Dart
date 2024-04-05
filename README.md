@@ -1,4 +1,4 @@
-# 💡 💡 Tasks Dart 👩🏻‍💻
+# 💡 Tasks Dart 👩🏻‍💻
 This repository contains Dart code for some problem solving.
 ## 🧩 Task 1 
 * [task_operations:](https://github.com/shahlaa1212/Task1_Dart/tree/master/task_operations)
